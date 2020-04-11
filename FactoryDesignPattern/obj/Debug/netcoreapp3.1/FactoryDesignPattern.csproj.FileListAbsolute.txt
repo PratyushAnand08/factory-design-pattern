@@ -1,0 +1,12 @@
+/Users/pratyush1/Projects/FactoryDesignPattern/FactoryDesignPattern/bin/Debug/netcoreapp3.1/FactoryDesignPattern.deps.json
+/Users/pratyush1/Projects/FactoryDesignPattern/FactoryDesignPattern/bin/Debug/netcoreapp3.1/FactoryDesignPattern.runtimeconfig.json
+/Users/pratyush1/Projects/FactoryDesignPattern/FactoryDesignPattern/bin/Debug/netcoreapp3.1/FactoryDesignPattern.runtimeconfig.dev.json
+/Users/pratyush1/Projects/FactoryDesignPattern/FactoryDesignPattern/bin/Debug/netcoreapp3.1/FactoryDesignPattern.dll
+/Users/pratyush1/Projects/FactoryDesignPattern/FactoryDesignPattern/bin/Debug/netcoreapp3.1/FactoryDesignPattern.pdb
+/Users/pratyush1/Projects/FactoryDesignPattern/FactoryDesignPattern/obj/Debug/netcoreapp3.1/FactoryDesignPattern.csprojAssemblyReference.cache
+/Users/pratyush1/Projects/FactoryDesignPattern/FactoryDesignPattern/obj/Debug/netcoreapp3.1/FactoryDesignPattern.csproj.CoreCompileInputs.cache
+/Users/pratyush1/Projects/FactoryDesignPattern/FactoryDesignPattern/obj/Debug/netcoreapp3.1/FactoryDesignPattern.AssemblyInfoInputs.cache
+/Users/pratyush1/Projects/FactoryDesignPattern/FactoryDesignPattern/obj/Debug/netcoreapp3.1/FactoryDesignPattern.AssemblyInfo.cs
+/Users/pratyush1/Projects/FactoryDesignPattern/FactoryDesignPattern/obj/Debug/netcoreapp3.1/FactoryDesignPattern.dll
+/Users/pratyush1/Projects/FactoryDesignPattern/FactoryDesignPattern/obj/Debug/netcoreapp3.1/FactoryDesignPattern.pdb
+/Users/pratyush1/Projects/FactoryDesignPattern/FactoryDesignPattern/obj/Debug/netcoreapp3.1/FactoryDesignPattern.genruntimeconfig.cache
